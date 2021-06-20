@@ -8,9 +8,13 @@
 |---            |---                                             | 
 | Growthmindset | [growthmindset](https://yousefmamdo.github.io/reading_notes102/growthmindset)   |
 |  read01       | [read01](https://yousefmamdo.github.io/reading_notes102/read01)          |   
+<<<<<<< HEAD
 | read02        | [read02](https://yousefmamdo.github.io/reading_notes102/read02)          |  
 |  read03       | [read03](https://yousefmamdo.github.io/reading_notes102/read03)          |   
 | read04        | [read04](https://yousefmamdo.github.io/reading_notes102/read04)          |  
 |  read05       | [read05](https://yousefmamdo.github.io/reading_notes102/read05)          |   
 | read06        | [read06](https://yousefmamdo.github.io/reading_notes102/read06)          |  
 | read07        | [read07](https://yousefmamdo.github.io/reading_notes102/read07)          |  
+=======
+| read02        | [read02](https://yousefmamdo.github.io/reading_notes102/read02)          |  
+>>>>>>> 9fc0313f657c72d497f4ff27fbe5382ce4d0cc1b
