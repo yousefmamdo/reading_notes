@@ -1,4 +1,4 @@
-## * I'm Yousef Mando ,I'm 23 years old. I'm software engineer . I got graduate from Zrqa university in 2020 . *
+##  I'm Yousef Mando ,I'm 23 years old. I'm software engineer . I got graduate from Zrqa university in 2020 . 
 
 ## Table of content :
 ## Code 102 Reading Notes
@@ -19,5 +19,5 @@
 
 | read          | Link                                                                            | 
 | ------------- | ---------------                                                                 |
-| read01        | [Introductory HTML and JavaScript]                                              | 
-| read02        | [HTML Text, CSS ,JavaScript Introduction])                                      |
+| read01        | [read01] (https://github.com/yousefmamdo/reading_notes/blob/main/201/read01)    | 
+| read02        | [read02] (https://github.com/yousefmamdo/reading_notes/blob/main/201/read02)    | 
