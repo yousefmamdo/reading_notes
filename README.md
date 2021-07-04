@@ -19,5 +19,5 @@
 
 | read          | Link                                                                            | 
 | ------------- | ---------------                                                                 |
-| read01        | [read01] (https://github.com/yousefmamdo/reading_notes/blob/main/201/read01)    | 
-| read02        | [read02] (https://github.com/yousefmamdo/reading_notes/blob/main/201/read02)    | 
+| read01        | [read01](https://github.com/yousefmamdo/reading_notes/blob/main/201/read01)     | 
+| read02        | [read02](https://github.com/yousefmamdo/reading_notes/blob/main/201/read02)     | 
