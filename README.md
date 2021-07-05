@@ -5,7 +5,7 @@
 
 | read          | link                                                                            |
 |---            |---                                                                              | 
-| Growthmindset | [growthmindset](https://yousefmamdo.github.io/reading_notes102/growthmindset)   |
+| Growthmindset | [growthmindset](./102/growthmindset.md)   |
 |  read01       | [read01](https://yousefmamdo.github.io/reading_notes102/read01)                 |   
 | read02        | [read02](https://yousefmamdo.github.io/reading_notes102/read02)                 |  
 |  read03       | [read03](https://yousefmamdo.github.io/reading_notes102/read03)                 |   
