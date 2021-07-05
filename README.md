@@ -6,18 +6,20 @@
 | read          | link                                                                            |
 |---            |---                                                                              | 
 | Growthmindset | [growthmindset](./102/growthmindset.md)   |
-|  read01       | [read01](https://yousefmamdo.github.io/reading_notes102/read01)                 |   
-| read02        | [read02](https://yousefmamdo.github.io/reading_notes102/read02)                 |  
-|  read03       | [read03](https://yousefmamdo.github.io/reading_notes102/read03)                 |   
-| read04        | [read04](https://yousefmamdo.github.io/reading_notes102/read04)                 |  
-|  read05       | [read05](https://yousefmamdo.github.io/reading_notes102/read05)                 |   
-| read06        | [read06](https://yousefmamdo.github.io/reading_notes102/read06)                 |  
-| read07        | [read07](https://yousefmamdo.github.io/reading_notes102/read07)                 |
+|  read01       | [read01](./102/read01.md)                 |   
+| read02        | [read02](./102/read02.md)                 |  
+|  read03       | [read03](./102/read03.md)                 |   
+| read04        | [read04](./102/read04.md)                 |  
+|  read05       | [read05](./102/read05.md)                 |   
+| read06        | [read06](./102/read06.md)                 |  
+| read07        | [read07](./102/read07.md)                 |
 
 
 ## Code 201 Reading Notes
 
 | read          | Link                                                                            | 
 | ------------- | ---------------                                                                 |
-| read01        | [read01](https://github.com/yousefmamdo/reading_notes/blob/main/201/read01)     | 
-| read02        | [read02](https://github.com/yousefmamdo/reading_notes/blob/main/201/read02)     | 
+| read01        | [read01](./201/read01.md)     | 
+| read02        | [read02](./201/read02.md)     | 
+| read03        | [read03](./201/read03.md)     | 
+| read04        | [read04](./201/read04.md)     | 
