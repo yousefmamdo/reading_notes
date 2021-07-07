@@ -1,12 +1,11 @@
 # Links
-Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing.You will commonly come across the following types of links:  
-  + Links from one website to another
-+ Links from one page to another on the same website
-+  Links from one part of a web page to another part of the same   
-    pageLinks that open in a new browser window
+Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing.You will commonly come across  the following types of links:
++ Links from one website to another 
++ Links from one page to another on the same website 
++ Links from one part of a web page to another part of the same pageLinks that open in a new browser window
 + Links that start up your email program and address a new email to someone  
 
-# reLA tive urLs
+# relative urLs
 When you are linking to a page on your own website, you do not need to specify the domain name. You can use relative uRlswhich are a shorthand way to tell the browser where a page is in relation to the current page.This is especially helpful when creating a new website or learning about HTML because you can create links between pages when they are only on your personal computer (before you have got a domain name and uploaded them to the web).Because you do not need to repeat the domain name in each link, they are also quicker to write.If all of the files in your site are in one folder, you simply use the file name for that page. If your site is organized into separate folders (or directories), you need to tell the browser how to get from the page it is currently on to the page that you are linking to.If you link to the same page from two different pages you might, therefore, need to write two different relative URLs.These links make use of the same terminology (borrowed from that of family trees) you met on the previous page which introduces directory structure.
 
 # Layout
