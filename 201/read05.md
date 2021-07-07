@@ -1,0 +1,19 @@
+## Images
+There are many reasons why you might want to add an image to a web page: you might want to include a logo, photograph, illustration, diagram, or chart.There are several things to consider when selecting and preparing images for your site, but taking time to get them right will make it look more attractive and professional.A picture can say a thousand words, and great images help make the difference between an average-looking site and a really engaging one.  
+
++ Images can be used to set the tone for a site in less time than it takes to read a description. If you do not have photographs to use on your website, there are companies who sell stock images; these are images you    
+
++ pay to use (there is a list of stock photography websites below). Remember that all images are subject to copyright, and you can get in trouble for simply taking photographs from another website.   
+
++ If you have a page that shows several images (such as product photographs or members of a team) then putting them on a simple, consistent background helps them look better as a group.  
++ <img>To add an image into the page you need to use an <img>element. This is an empty element (which means there is no closing tag). It must carry the following two attributes:srcThis tells the browser where it can find the image file. This will usually be a relative URL pointing to an image on your own site. (Here you can see that the images are in a child folder called images — relative URLs were covered on pages 83-84). altThis provides a text description of the image which describes the image if you cannot see it.titleYou can also use the titleattribute with the <img> element to provide additional information about the image. Most browsers will display the content of this attribute in a tootip when the user hovers over the image.add Ing ImagesThe text used in the alt attribute is often referred to as alt text. It should give an accurate description of the image content so it can be understood by screen reader software (used by people with visual impairments) and search engines.If the image is just to make a page look more attractive (and it has no meaning, such as a graphic dividing line), then the alt attribute should still be used but the quotes should be left empty.  
+
+# Color  
++ The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:rgb valuesThese express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90) hex CodesThese are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80Color namesThere are 147 predefined color names that are recognized by browsers. For example: DarkCyanWe look at these three different ways of specifying colors on the next double-page spread.  
+
++ CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box.You can specify your choice of background color in the same three ways you can specify foreground colors: RGB values, hex codes, and color names (covered on the next page).If you do not specify a background color, then the background is transparent. By default, most browser windows have a white background, but browser users can set a background color for their windows, so if you want to be sure that the background is white  you can use the background-color property on the <body> element.  
+
+# Text  
+ The properties that allow you to control the appearance of text can be split into two groups:  
+ + Those that directly affect the font and its appearance (including the typeface, whether it is regular, bold or italic, and the size of the text)  
+ + hose that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters)
