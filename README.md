@@ -1,6 +1,6 @@
 ##  I'm Yousef Mando ,I'm 23 years old. I'm software engineer . I got graduate from Zrqa university in 2020 . 
 
-## Table of content :
+# Reading Notes :
 ## Code 102 Reading Notes
 
 | read          | link                                                                            |
@@ -34,3 +34,11 @@
 | read13        | [read13](./201/read13.md)     | 
 | read14a       | [read14a](./201/read14a.md)   | 
 | read14b       | [read14b](./201/read14b.md)   | 
+
+
+## Code 301 Reading Notes
+
+| read          | Link                                                                            | 
+| ------------- | ---------------                                                                 |
+| read01        | [read01](./301/read01.md)     | 
+| read02        | [read02](./301/read02.md)     | 
